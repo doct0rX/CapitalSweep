@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Capital Sweep is a place where matching happens between startups/companies && investors.
-
+Capital Sweep is a platform that simplifies the process of raising capital. 
+  We automate the process to increase your chances of partnering up with the ideal investor, save time, and reduce unnecessary hard and soft costs.
 and it's AI powered!
 
 

@@ -21,11 +21,12 @@
 title: Capital Sweep
 email: under@construction
 description: >- # this means to ignore newlines until "baseurl:"
-  Capital Sweep is a place where matching happens between startups/companies && investors.
+  Capital Sweep is a platform that simplifies the process of raising capital. 
+  We automate the process to increase your chances of partnering up with the ideal investor, save time, and reduce unnecessary hard and soft costs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: capital-sweep
-github_username:  doct0rX
+# github_username:  doct0rX
 
 # Build settings
 theme: minima
